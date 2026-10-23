@@ -221,3 +221,5 @@ __marimo__/
 
 # Données brutes téléchargées (non publiées)
 data/raw/
+
+data/*.duckdb
